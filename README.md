@@ -49,6 +49,6 @@ At `Line No : 59 and 67`
 
 1. Move in the Root Folder for Weather app
 2. In the root folder open terminal or powershell and type command `Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass` hit enter. 
-4. After that type another command `json-server --watch db.json --port 3001` hit enter now JSON server start running.
+4. After that type another command `json-server --watch db.json --port 3001` hit enter now JSON server start running. Don't close the terminal
 5. Now move in `/Frontend folder` again open seprate terminal or powershell and type a command `npm i` to install all packages.
 6. To run the code `npm run dev`
